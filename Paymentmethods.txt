@@ -1,0 +1,19 @@
+PAYMENTS METHODS:
+
+                A Payment method is a way that customers pay for a product or service.
+
+                Accepted payment methods may include cash on delivery,gift card,credit card,prepaid card,mobile payments
+                and net banking.
+
+                The technical chioce is vital in securing reliable and unproblematic cash flow.
+
+                We can accept several payment methods both online and in offline.Each has benefits and its downside.
+
+                The first most obvious opportunity is payment in cash.This is relatively simple for both customers and
+                sellers.
+
+ADVANTAGES:
+
+                *Increased speed and convenience.
+                *Increased sales.
+                *Reduced transaction costs.
